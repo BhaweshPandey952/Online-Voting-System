@@ -38,10 +38,13 @@ Tools: Ganache, MetaMask
 
 ## Screenshots
 
-![Login Page]((https://github.com/BhaweshPandey952/Online-Voting-System/blob/main/public/login%20ss.png))
+Login Page
+![Login Page](https://github.com/BhaweshPandey952/Online-Voting-System/blob/main/public/login%20ss.png)
 
+Admin Page
 ![Admin Page](https://github.com/BhaweshPandey952/Online-Voting-System/blob/main/public/admin%20ss.png)
 
+Voter Page
 ![Voter Page](https://github.com/BhaweshPandey952/Online-Voting-System/blob/main/public/index%20ss.png)
 
 
