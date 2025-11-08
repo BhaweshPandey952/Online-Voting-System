@@ -1,2 +1,0 @@
-This is a Blockchain based online voting system.
-This is our Minor Project -1
